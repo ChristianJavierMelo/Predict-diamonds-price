@@ -1,7 +1,7 @@
 # Predict diamond's price competition
 The goal of this project is the prediction of the price of diamonds based on their characteristics (weight, color, quality of cut, etc.).
 
-![alt text](https://github.com/ChristianJavierMelo/ih_datamadpt0420_project_m3/images/master/diamonds1.jpeg?raw=true)
+![alt text](https://sep.yimg.com/ay/jbead/diamonds-the-4-c-s-11.gif)
 
 ## Table of Contents
 1. [General Info](#general-info)
@@ -57,7 +57,7 @@ Core technical concepts and inspirations:
 
 ### Summary
 The useful information is defined in EDA made on previos project.
-![alt text](https://github.com/ChristianJavierMelo/ih_datamadpt0420_project_m3/blob/master/EDA1.jpeg?raw=true)
+![alt text](https://www.clipartmax.com/png/middle/349-3493704_admin-monitoring-of-projects-monitoring-and-evaluation-clipart.png)
 
 the main conclusions drawn are:
 - Correlation > 0.96 between the variables X, Y, Z, Carat, Price.
