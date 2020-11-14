@@ -57,7 +57,7 @@ Core technical concepts and inspirations:
 
 ### Summary
 The useful information is defined in EDA made on previos project.
-![alt text](https://www.clipartmax.com/png/middle/349-3493704_admin-monitoring-of-projects-monitoring-and-evaluation-clipart.png)
+![alt text](https://qualitynoc.es/wp-content/uploads/2020/06/network-operation-center-noc-as-an-efficient-and-comprehensive-network-operations-center-png-520_427.png)
 
 the main conclusions drawn are:
 - Correlation > 0.96 between the variables X, Y, Z, Carat, Price.
