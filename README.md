@@ -23,22 +23,22 @@ The aim of this part is to use the ML algorithms to predict the market price of 
 In this section you will find data needed to train your model and a detailed description of it.
 
 #### Files
-- diamonds_train.csv: training set
-- diamonds_predict.csv: test set
-- sample_submission.csv: sample submission
+- *diamonds_train.csv*: training set
+- *diamonds_predict.csv*: test set
+- *sample_submission.csv*: sample submission
 
 #### Features
-- *id*: only for test & sample submission files, id for prediction sample identification
-- *price*: price in USD
-- *carat*: weight of the diamond
-- *cut*: quality of the cut (Fair, Good, Very Good, Premium, Ideal)
-- *color*: diamond colour, from J (worst) to D (best)
-- *clarity*: a measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best))
-- *x*: length in mm
-- *y*: width in mm
-- *z*: depth in mm
-- *depth*: total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)
-- *table*: width of top of diamond relative to widest point (43--95)
+- **id**: only for test & sample submission files, id for prediction sample identification
+- **price**: price in USD
+- **carat**: weight of the diamond
+- **cut**: quality of the cut (Fair, Good, Very Good, Premium, Ideal)
+- **color**: diamond colour, from J (worst) to D (best)
+- **clarity**: a measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best))
+- **x**: length in mm
+- **y**: width in mm
+- **z**: depth in mm
+- **depth**: total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)
+- **table**: width of top of diamond relative to widest point (43--95)
 
 
 ### Technologies
@@ -81,8 +81,8 @@ It is possible to see the Kaggle competicion in this [link](https://www.kaggle.c
 The evaluation metric chosen for this competition is the [RMSE](https://en.wikipedia.org/wiki/Root-mean-square_deviation) (Root Mean Squared Error)
 
 #### Result
-My score in public leaderboard was *518.15125* with 28 entries
-My score in private leaderboard was *547.85363* being within the top 5 of my promotion (with a total of 31 participants)
+- My score in public leaderboard was **518.15125** with 28 entries
+- My score in private leaderboard was **547.85363** being within the ***top 5 of my promotion*** (with a total of 31 participants)
 
 
 ### Rules
